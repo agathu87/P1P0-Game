@@ -1,0 +1,23 @@
+.ping {
+  text-align: center;
+  font-style: italic;
+  color: white;
+}
+
+.pong {
+  text-align: right;
+  color: white;
+}
+
+.ping-pong {
+  background-color: skyblue;
+  background-image: url(/home/angela/Documents/ping-pong/img/ping5.jpg);
+}
+
+.description {
+  text-align: center;
+  font-size: 5px;
+}
+.rules {
+  background-color: pink;
+}
