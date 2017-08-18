@@ -10,14 +10,25 @@
 }
 
 .ping-pong {
-  background-color: skyblue;
+  background-color: purple;
   background-image: url(/home/angela/Documents/ping-pong/img/ping5.jpg);
+  padding-bottom: 130px;
+  margin-bottom: 0px;
 }
 
 .description {
   text-align: center;
-  font-size: 5px;
+  font-size: 10px;
+  padding: 10px;
+  margin-bottom: 0px;
+  background-color: #660066;
+  color: black;
+
+
 }
 .rules {
-  background-color: pink;
+  background-color: purple;
+  background-color: #660066;
+  color: black;
+  padding: 10px;
 }
