@@ -11,7 +11,7 @@
 
 .ping-pong {
   background-color: purple;
-  background-image: url(/home/angela/Documents/ping-pong/img/ping5.jpg);
+  background-image: url(../img/ping5.jpg);
   padding-bottom: 130px;
   margin-bottom: 0px;
 }
@@ -23,9 +23,11 @@
   background-color: #660066;
   color: black;
 }
+
 p {
   font-size: 12px;
 }
+
 .rules {
   background-color: purple;
   background-color: #660066;
@@ -33,6 +35,7 @@ p {
   padding: 10px;
   font-size: 15px;
 }
+
 .desc {
   text-align: justify;
   font-size: 15px;
